@@ -11,5 +11,6 @@ tr
 I have not tested it in previously versions of aws cli to 1.17.6
 
 ## Execution
-Change the PEM_KEY, EC2_USER and ECR_URI variables for your desired and execute it with bash ./export_aws_ecs_container_logs.sh
+Change the PEM_KEY, EC2_USER and ECR_URI variables for your desired and execute it with:
+`bash ./export_aws_ecs_container_logs.sh`
 
