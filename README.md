@@ -3,9 +3,13 @@ This script is used for export the aws ecs logs with a certain ecr uri
 
 ## bash Requirements
 aws-cli (previously configured)
+
 jq
+
 awk
+
 cut
+
 tr
 
 I have not tested it in previously versions of aws cli to 1.17.6
