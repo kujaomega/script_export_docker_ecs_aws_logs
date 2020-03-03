@@ -14,3 +14,5 @@ I have not tested it in previously versions of aws cli to 1.17.6
 Change the PEM_KEY, EC2_USER and ECR_URI variables for your desired and execute it with:
 `bash ./export_aws_ecs_container_logs.sh`
 
+## Output
+It will output files files with the [dns-names]-logs.log in the same folder
