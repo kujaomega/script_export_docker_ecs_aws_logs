@@ -19,4 +19,4 @@ Change the PEM_KEY, EC2_USER and ECR_URI variables for your desired and execute 
 `bash ./export_aws_ecs_container_logs.sh`
 
 ## Output
-It will output files files with the [dns-name]-logs.log in the same folder
+It will output files with the [dns-name]-logs.log in the same folder
